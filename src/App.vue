@@ -1,8 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>Drug Interaction Checker</h1>
-      
+      <h1>Drugs Page</h1>
     </header>
     
     <router-view></router-view>
